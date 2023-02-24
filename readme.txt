@@ -1,5 +1,5 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Add newline. 
+Add newline. BOSS 
 Git has a mutable index called stage.
 Git tracks changes of files.
